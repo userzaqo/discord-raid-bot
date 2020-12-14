@@ -1,0 +1,19 @@
+{
+  "name": "discord-raid-bot",
+  "version": "0.0.1",
+  "description": "raid bot dev by zaqo",
+  "main": "nuke.js",
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "userzaqo"
+  },
+  "author": "zaqo",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1"
+  }
+}
